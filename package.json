@@ -1,0 +1,15 @@
+{
+  "name": "formable",
+  "description": "Easily generate forms to edit object data in the browser.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/howardroark/formable",
+  "author": {
+    "name": "Howard Roark",
+    "email": "howie@codingcoop.org"
+  },
+  "license": "Unlicence",
+  "repository": "howardroark/formable",
+  "dependencies": {
+    "angular-schema-form": "^0.8.13"
+  }
+}
